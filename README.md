@@ -13,3 +13,7 @@
 ### 🚑 Commits timeline
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
+
+### ⏰ Visited by 
+![Visitor Count](https://profile-counter.glitch.me/o98k-ok/count.svg)
+

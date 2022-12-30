@@ -8,3 +8,8 @@
 1. 🎉 Merged PR [#1](https://github.com/o98k-ok/lark-doc/pull/1) in [o98k-ok/lark-doc](https://github.com/o98k-ok/lark-doc)
 2. 💪 Opened PR [#1](https://github.com/o98k-ok/lark-doc/pull/1) in [o98k-ok/lark-doc](https://github.com/o98k-ok/lark-doc)
 <!--END_SECTION:activity-->
+
+
+### 🚑 Commits timeline
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->

@@ -5,7 +5,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/o98k-ok/lark-doc/pull/1) in [o98k-ok/lark-doc](https://github.com/o98k-ok/lark-doc)
-2. 💪 Opened PR [#1](https://github.com/o98k-ok/lark-doc/pull/1) in [o98k-ok/lark-doc](https://github.com/o98k-ok/lark-doc)
-<!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
+
+
+### :zap: Activity graph
+
+[![o98k's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=o98k-ok&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -17,3 +17,5 @@
 ### ⏰ Visited by 
 ![Visitor Count](https://profile-counter.glitch.me/o98k-ok/count.svg)
 
+### 🛺 Most used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o98k-ok)](https://github.com/anuraghazra/github-readme-stats)
